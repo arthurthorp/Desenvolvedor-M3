@@ -1,0 +1,21 @@
+$white: #FFF;
+$blue: #2cbff2;
+$dark: #000000;
+$semi-dark: #040404;
+$gray: #909090;
+$border-gray: #c7c7c7;
+
+$horizontal-space: 25px;
+
+
+$layout-breakpoints: (
+    extraSmall: 0px,
+    small: 350px,
+    bigSmall: 475px,
+    extraMedium: 600px,
+    medium: 725px,
+    bigMedium: 850px,
+    extraLarge: 1300px,
+    large: 1750px,
+    bigLarge: 5000px,
+);
